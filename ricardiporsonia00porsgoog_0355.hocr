@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ricardiporsonia00porsgoog_0355.png"; bbox 0 0 2952 5028; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 657 1405 1817 1517">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 657 1405 1817 1517">
+     <span class='ocr_line' id='line_1_1' title="bbox 657 1405 1817 1517; baseline 0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 657 1405 1817 1517; x_wconf 89' lang='lat' dir='ltr'><strong>INDICES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 241 1686 2234 1817">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 241 1686 2234 1817">
+     <span class='ocr_line' id='line_1_2' title="bbox 241 1686 2234 1817; baseline -0.001 -43"><span class='ocrx_word' id='word_1_2' title='bbox 241 1690 908 1790; x_wconf 85' lang='lat' dir='ltr'><strong>AVCTORVM,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 973 1689 1362 1774; x_wconf 83' lang='lat' dir='ltr'>RERVM</span> <span class='ocrx_word' id='word_1_4' title='bbox 1412 1686 1563 1770; x_wconf 86' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1628 1687 2234 1817; x_wconf 66' lang='lat' dir='ltr'>vmonvM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1014 1953 1356 2012">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1014 1953 1356 2012">
+     <span class='ocr_line' id='line_1_3' title="bbox 1014 1953 1356 2012; baseline -0.003 0"><span class='ocrx_word' id='word_1_6' title='bbox 1014 1990 1018 1994; x_wconf 95' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1159 1953 1356 2012; x_wconf 70' lang='lat' dir='ltr'><strong>An&#39;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 520 2137 1948 2214">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 520 2137 1948 2214">
+     <span class='ocr_line' id='line_1_4' title="bbox 520 2137 1948 2214; baseline -0.001 -1"><span class='ocrx_word' id='word_1_8' title='bbox 520 2139 859 2213; x_wconf 84' lang='lat' dir='ltr'>Rlc.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1013 2137 1948 2214; x_wconf 82' lang='lat' dir='ltr'>PORSONI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 414 2376 2060 2442">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 414 2376 2060 2442">
+     <span class='ocr_line' id='line_1_5' title="bbox 414 2376 2060 2442; baseline 0.002 -5"><span class='ocrx_word' id='word_1_10' title='bbox 414 2377 1076 2442; x_wconf 82' lang='lat' dir='ltr'>ADVERSARIA</span> <span class='ocrx_word' id='word_1_11' title='bbox 1179 2377 1305 2441; x_wconf 79' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1404 2376 2060 2440; x_wconf 82' lang='lat' dir='ltr'><strong>APPENDICEM</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
